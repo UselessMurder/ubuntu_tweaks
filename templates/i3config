@@ -1,4 +1,4 @@
-set $terminal gnome-terminal 
+set $terminal termite 
 set $left h
 set $down j
 set $up k
